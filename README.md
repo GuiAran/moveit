@@ -1,3 +1,6 @@
+<h1 align="center" style="padding: 50px; background: #fff;">
+    <img alt="moveit" title="moveit" src="https://raw.githubusercontent.com/guiaran/moveit/master/public/logo-full.svg" />
+</h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GuiAran/moveit?color=%2304D361&style=for-the-badge">
@@ -18,9 +21,6 @@
   </a>
 
 </p>
-<h1 align="center" style="padding: 50px; background: #fff;">
-    <img alt="moveit" title="moveit" src="https://raw.githubusercontent.com/guiaran/moveit/master/public/logo-full.svg" />
-</h1>
 
 <h4 align="center">
 	🏁  Move.it - Finalizado 🏁

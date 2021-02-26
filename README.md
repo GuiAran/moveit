@@ -24,7 +24,7 @@
 
 <p align="center">
  <a href="#--sobre-o-projeto">Sobre</a> •
- <a href="#-%EF%B8%8F-funcionalidades">Funcionalidades</a> •
+ <a href="#--funcionalidades">Funcionalidades</a> •
  <a href="#--como-executar">Como executar</a> •
  <a href="#--tecnologias">Tecnologias</a> •
  <a href="#--autor">Autor</a> •
@@ -68,7 +68,7 @@ Um editor ótimo para "codar" é o [VSCode](https://code.visualstudio.com/).
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:BrunoSaibert/move.it.git
+$ git clone git@github.com:guiaran/moveit.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd move.it

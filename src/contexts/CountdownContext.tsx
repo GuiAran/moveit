@@ -6,8 +6,8 @@ interface CountdownContextData {
     seconds: number;
     hasFinished: boolean;
     isActive: boolean;
-    startCountdonw: () => void;
-    resetCountdonw: () => void;
+    resetCountdown: () => void;
+    startCountdown: () => void;
 
 }
 
@@ -30,11 +30,11 @@ export function CountdownProvider({ children }: CountdownProviderProps) {
     const minutes = Math.floor(time / 60);
     const seconds = time % 60;
 
-    function startCountdonw() {
+    function startCountdown() {
         setIsActive(true);
     }
 
-    function resetCountdonw() {
+    function resetCountdown() {
         clearTimeout(countdounTimeout);
         setIsActive(false);
         setTime(0.1 * 60);
@@ -63,8 +63,8 @@ export function CountdownProvider({ children }: CountdownProviderProps) {
                 seconds,
                 hasFinished,
                 isActive,
-                startCountdonw,
-                resetCountdonw,
+                startCountdown,
+                resetCountdown,
 
             }}
         >

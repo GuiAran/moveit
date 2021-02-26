@@ -7,7 +7,7 @@ import styles from '../styles/pages/Home.module.css';
 import Head from 'next/head';
 import { ChallengeBox } from "../components/ChallengeBox";
 import React from "react";
-import { CountdownProvider } from "../contexts/CountdowntContext";
+import { CountdownProvider } from "../contexts/CountdownContext";
 import { ChallengesProvider } from "../contexts/ChallengesContext";
 
 interface HomeProps {

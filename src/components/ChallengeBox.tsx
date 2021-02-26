@@ -1,20 +1,20 @@
 import { useContext } from 'react';
 import { ChallengesContext } from '../contexts/ChallengesContext';
-import { CountdownContext } from '../contexts/CountdowntContext';
+import { CountdownContext } from '../contexts/CountdownContext';
 import styles from '../styles/components/ChallengeBox.module.css';
 
 export function ChallengeBox() {
 
     const { activeChallenge, resetChallenge, completedChallenge } = useContext(ChallengesContext);
-    const { resetCountdonw } = useContext(CountdownContext);
+    const { resetCountdown } = useContext(CountdownContext);
 
     function handleChallengeSucceeded() {
         completedChallenge();
-        resetCountdonw();
+        resetCountdown();
     }
 
     function handleChallengeFailed() {
-        resetCountdonw();
+        resetCountdown();
         resetChallenge();
 
     }

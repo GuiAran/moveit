@@ -63,6 +63,40 @@ Você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 Um editor ótimo para "codar" é o [VSCode](https://code.visualstudio.com/).
 
 ---
+#### Rodando a aplicação 🕹️
+
+```bash
+
+# Clone este repositório
+$ git clone git@github.com:BrunoSaibert/move.it.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd move.it
+
+# Instale as dependências
+$ npm install
+# ou
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+# ou
+$ yarn dev
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
+---
+
+## [](https://github.com/guiaran/moveit#--tecnologias) 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Aplicação** (**[React](https://reactjs.org/)** + **[Next.js](https://nextjs.org/)** + **[TypeScript](https://www.typescriptlang.org/)**)
+
+- **[js-cookie](https://github.com/js-cookie/js-cookie#readme)**
+
+> Veja o arquivo [package.json](https://github.com/BrunoSaibert/move.it/blob/main/package.json)
 #### **Hospedagem** (**[Vercel](https://vercel.com/)**)
 
 ---
@@ -74,4 +108,12 @@ Um editor ótimo para "codar" é o [VSCode](https://code.visualstudio.com/).
  <br />
  <sub><b>Guilherme Arantes</b></sub></a>
  <br />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiaran/)](https://www.linkedin.com/in/guiaran/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guilhermearantes.dev@gmail.com)](mailto:guilhermearantes.dev@gmail.com)
+
+
+
+## [](https://github.com/guiaran/moveit#--licença) Licença 📝
+
+Este projeto esta sobe a licença MIT.
 

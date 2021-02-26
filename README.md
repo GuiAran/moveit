@@ -22,10 +22,6 @@
 
 </p>
 
-<h4 align="center">
-	🏁  Move.it - Finalizado 🏁
-</h4>
-
 <p align="center">
  <a href="#--sobre-o-projeto">Sobre</a> •
  <a href="#-%EF%B8%8F-funcionalidades">Funcionalidades</a> •
@@ -34,3 +30,7 @@
  <a href="#--autor">Autor</a> •
  <a href="#--licença">Licença</a>
 </p>
+
+![](https://raw.githubusercontent.com/guiaran/moveit/master/public/screenshot.png)
+Veja a [demonstração](https://moveit-guiaran.vercel.app/index).
+

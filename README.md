@@ -19,7 +19,7 @@
 
 </p>
 <h1 align="center" style="padding: 50px; background: #fff;">
-    <img alt="moveit" title="moveit" src="https://raw.githubusercontent.com/guiaran/moveit/main/public/logo-full.svg" />
+    <img alt="moveit" title="moveit" src="https://raw.githubusercontent.com/guiaran/moveit/master/public/logo-full.svg" />
 </h1>
 
 <h4 align="center">

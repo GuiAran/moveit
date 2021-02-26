@@ -108,6 +108,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br />
  <sub><b>Guilherme Arantes</b></sub></a>
  <br />
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiaran/)](https://www.linkedin.com/in/guiaran/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guilhermearantes.dev@gmail.com)](mailto:guilhermearantes.dev@gmail.com)
 
